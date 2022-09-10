@@ -4,7 +4,7 @@
 
 - Clone this repo
 - Download yaci-cli-{version}.jar from [Yaci CLI](https://github.com/bloxbean/yaci-cli) repo
-- Add correct discord webhook url 
+- Add correct discord webhook url in discord.sh
 - Run yaci-cli   (With Java 11)
 
 ```
