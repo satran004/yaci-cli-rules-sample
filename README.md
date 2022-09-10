@@ -1,0 +1,1 @@
+# yaci-cli-rules-sample
